@@ -4,6 +4,7 @@
 - **第 1 周**
   - 学习：Python 基础（NumPy 数组、Matplotlib 绘图）
   - 实践：读取/显示图片，用 NumPy 改变像素值（如翻转、灰度化）
+  - https://github.com/eastmountyxz/ImageProcessing-Python
 - **第 2 周**
   - 学习：OpenCV 基础（图像加载、颜色空间、边缘检测）
   - 实践：写一个小脚本，对照片进行缩放、旋转、滤波
